@@ -1,0 +1,16 @@
+.footer {
+    background: url("https://www.instructory.net/assets/images/footer_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.footer li {
+    list-style-type: none;
+    color: white;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.footer p {
+    font-size: 14px;
+}

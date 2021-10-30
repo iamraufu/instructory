@@ -1,0 +1,20 @@
+.card {
+    filter: drop-shadow(0 0 0.75rem rgb(109, 96, 96));
+    padding-right: 2px !important;
+}
+
+img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.btn-bn {
+    cursor: pointer;
+    font-size: 12px;
+    float: right;
+    padding: 6px 15px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    background-color: #1aa3d0;
+    border: none;
+}

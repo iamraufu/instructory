@@ -1,0 +1,22 @@
+.course-search {
+    width: 500px;
+    padding: 18px 10px;
+    border: 1px solid #e1e1e1;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.course-search:focus {
+    outline: none;
+}
+
+.btn-sa {
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    padding: 10px 5px;
+    border: 1px solid #1aa3d0;
+    background-color: #1aa3d0;
+    border-radius: 5px;
+    margin-left: -5px;
+}
